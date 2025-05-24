@@ -1,0 +1,3 @@
+pandas
+matplotlib
+mcp[cli]>=1.2.1
